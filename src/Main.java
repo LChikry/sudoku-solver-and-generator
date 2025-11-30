@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws OutOfGridException, EmptyPuzzleException {
-//        mainMenu();
-//        endMessagePrinter();
+       mainMenu();
+       endMessagePrinter();
     }
 
     private static void endMessagePrinter() {
